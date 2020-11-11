@@ -1,2 +1,2 @@
 # Enterprise data-analysis
- projrct
+ project
